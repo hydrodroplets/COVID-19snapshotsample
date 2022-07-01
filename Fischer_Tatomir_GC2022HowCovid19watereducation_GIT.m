@@ -12,7 +12,7 @@
 %   For pre-print see https://gc.copernicus.org/preprints/gc-2022-5/
 %
 %
-%   B.M.C. Fischer '22  question etc. mailto: benjamin.fischer@geo.uzh.ch
+%   B.M.C. Fischer '22  question etc. mailto: hydrodroplets@gmail.com
 %
 %   CC BY 4.0 License
 %  
